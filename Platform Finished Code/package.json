@@ -1,0 +1,27 @@
+{
+    "name": "PlatformerBlueprint",
+    "version": "1.0.0",
+    "description": "Basic platformer blueprint",
+    "author": "GameLab",
+    "logo": "xx",
+
+    "homepage": "http://kiwijs.org/",
+    "bugs": "xx",
+    "license": "xx",
+    "licenseUrl": "xx",
+
+    "repository": {
+        "type": "git",
+        "url": "xx"
+    },
+
+    "main": "src/game.js",
+
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.x",
+        "grunt-contrib-uglify": "0.2.x",
+        "grunt-contrib-yuidoc": "0.4.x",
+        "grunt-contrib-copy":  "0.4.x"
+    }
+}
